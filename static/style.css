@@ -21,6 +21,11 @@
     margin: 0 auto;
 } */
 
+.container{
+    margin: 0;
+    padding: 0;
+}
+
 .acounter {
     position: fixed;
     top: 15vh;
@@ -40,6 +45,8 @@
     border-color: transparent; */
     background-color: rgba(255, 255, 255, 0.3);
     text-align: center;
+    top: 0;
+    right: 0;
     /* opacity: 1.0; */
 }
 
